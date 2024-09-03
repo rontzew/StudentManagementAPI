@@ -1,0 +1,6 @@
+com\example\initapi\AnotherAPI\student\StudentController.class
+com\example\initapi\AnotherAPI\student\StudentService.class
+com\example\initapi\AnotherAPI\student\StudentRepository.class
+com\example\initapi\AnotherAPI\AnotherApiApplication.class
+com\example\initapi\AnotherAPI\student\Student.class
+com\example\initapi\AnotherAPI\student\StudentConfig.class
